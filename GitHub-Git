@@ -1,0 +1,16 @@
+git adalah sistem pengelolaan repositori source code secara terdistribusi dan bersifat opensource. 
+Jika anda mempunyai keahlian teknis, anda bisa membangun server Git sendiri dan menyimpan source code anda 
+di sistem perusahaan anda.
+
+Permasalahannya, interface git adalah command line, artinya hanya yangbenar benar ahli komputer dan programer 
+yang bisa memanfaatkannya.
+
+Github menyadari hal ini, maka github membuat website yang mempunyai fitur git dengan interface web 
+yang tinggal klik dan bisa di akses lewat aplikasi client berbasis desktop.
+
+Yang menarik dari Github adalah, layanan ini berkembang di era media sosial dan github menambahkan fitur sosial kedalamnya.
+Hal inilah yang membuat github begitu terkenal dan orang mempersepsikan bahwa git dan github adalah satu produk dan layanan,
+padahal kenyataannnya berbeda.
+
+Intinya perbedaan Git dan GitHub terletak pada tujuan dibuatnya, dimana git berfokus pada proyek pengembangan linux 
+sedangankan GitHub pada proyek pengembangan perangkat lunak secara luas.
