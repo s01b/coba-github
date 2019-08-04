@@ -1,0 +1,5 @@
+SOIB Resolusi
+- belajar front-end developer HTMML, CSS, Javascript
+- belajar back-end developer PHP dan MariaDB
+- menguasai penggunanaan framework laravel
+- menggunkan PWA (Progresif Web App)
