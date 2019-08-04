@@ -3,3 +3,5 @@ SOIB Resolusi
 - belajar back-end developer PHP dan MariaDB
 - menguasai penggunanaan framework laravel
 - menggunkan PWA (Progresif Web App)
+- belajar UI/UX Designer
+- menjadii freelance developer
