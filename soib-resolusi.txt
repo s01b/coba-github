@@ -1,7 +1,8 @@
 SOIB Resolusi
 - belajar front-end developer HTMML, CSS, Javascript
 - belajar back-end developer PHP dan MariaDB
-- menguasai penggunanaan framework laravel
+- menguasai penggunanaan framework CodeIgniter
 - menggunkan PWA (Progresif Web App)
 - belajar UI/UX Designer
 - menjadii freelance developer
+- merambah ke Android Developer
